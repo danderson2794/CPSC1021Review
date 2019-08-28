@@ -1,0 +1,15 @@
+Things we need to review:
+
+- How to Compile in Linux
+- How to execute in Linux
+
+- Basic structure and formatting (SoC standards)
+- Review Arrays, strings, structs (typedef)
+- Review Pointers (pass by reference vs pass by value)
+    -> Talk about stack and heap
+- Review looping
+
+- How to approach programming assignments
+- Think -> then Code
+- Comment your code
+- Read code
